@@ -1,0 +1,77 @@
+.bg-container {
+    background-image: url("https://res.cloudinary.com/dn0v6bhw1/image/upload/v1688799676/homepage-pingzhu-hero-bg-opt-v2_vm8leh.jpg");
+    background-size: cover;
+    height: 60vh;
+}
+
+.top-logo {
+    width: 180px;
+    height: 40px;
+    margin: 10px;
+}
+
+.drop-down {
+    border-width: 0px;
+    background-color: transparent;
+}
+
+.icon-globe {
+    margin-left: 100px;
+}
+
+.top-heading {
+    font-family: "Sans-Serif";
+    font-weight: bold;
+}
+
+.top-sec-button {
+    color: white;
+    font-size: 13px;
+    border-radius: 45px;
+    border-width: 0px;
+    padding: 8px;
+    background-color: #469171;
+}
+
+.top-sec-bottom-line {
+    font-size: 8px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.top-sec-bottom-image {
+    height: 120px;
+}
+
+.sec-2-image {
+    width: 30%;
+    height: 35vh;
+}
+
+.sec-2-text {
+    font-size: 12px;
+    font-family: "Sans-Serif";
+}
+
+.sec-2-heading {
+    font-size: 33px;
+}
+
+.middle-sec-icon {
+    margin: 8px;
+}
+
+.bottom-sec-image {
+    width: 180px;
+    height: 100px;
+}
+
+.bottom-sec-head {
+    font-family: "Sans-Serif";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.bottom-sec-text {
+    font-size: 12px;
+}
